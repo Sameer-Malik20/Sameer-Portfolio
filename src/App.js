@@ -400,7 +400,7 @@ function App() {
               {
                 position: "MERN Stack Developer Intern",
                 company: "Elite Tech Intern",
-                duration: "3 Month",
+                duration: "4 weeks",
                 details:
                   "Developed frontend using React and Tailwind CSS. Integrated REST APIs, managed state using hooks, and optimized performance.",
               },
