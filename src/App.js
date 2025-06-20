@@ -324,7 +324,7 @@ function App() {
                 description:
                   "Full-featured store with product search, cart, Stripe checkout ,review,filter with modern design.",
                 github: "https://github.com/Sameer-Malik20/Ecommerce-Store.git",
-                demo: "https://clever-fudge-b8ccef.netlify.app",
+                demo: "https://verdant-concha-12400a.netlify.app",
               },
               {
                 title: "Blog Platform",
